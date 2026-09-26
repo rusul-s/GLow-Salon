@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ede2cc"/>
+  <rect x="100" y="100" width="1000" height="600" rx="28" fill="#f7f3e8" stroke="#b99668" stroke-width="8"/>
+  <circle cx="600" cy="330" r="120" fill="#dcc9a7"/>
+  <path d="M470 560c30-105 230-105 260 0" fill="none" stroke="#8a724c" stroke-width="28" stroke-linecap="round"/>
+  <path d="M525 320c35-80 115-80 150 0" fill="none" stroke="#8a724c" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="555" cy="335" r="12" fill="#5f513c"/>
+  <circle cx="645" cy="335" r="12" fill="#5f513c"/>
+  <path d="M555 405c30 25 60 25 90 0" fill="none" stroke="#5f513c" stroke-width="10" stroke-linecap="round"/>
+  <text x="600" y="650" text-anchor="middle" fill="#8a724c" font-family="Arial, sans-serif" font-size="42">BEAUTY SALON</text>
+</svg>
